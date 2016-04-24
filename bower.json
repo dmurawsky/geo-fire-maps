@@ -1,0 +1,21 @@
+{
+  "name": "geo-fire-maps",
+  "description": "Angular Directive for GeoFire and Google Maps",
+  "version": "0.0.1",
+  "keywords": [
+    "webfab"
+  ],
+  "dependencies": {
+    "angular":"^1.5.5",
+    "firebase":"^2.4.2",
+    "angularfire":"^1.2.0"
+  },
+  "devDependencies": {},
+  "main": [
+    "./geo-fire-maps.js"
+  ],
+  "authors": [
+    "Daniel Murawsky <d.r.murawsky@gmail.com>"
+  ],
+  "license": "MIT"
+}
