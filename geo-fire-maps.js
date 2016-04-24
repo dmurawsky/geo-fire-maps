@@ -82,7 +82,8 @@
                     mapTypeId: '@', // Type of tile to show on the map (roadmap, satellite, hybrid, terrain).
                     panControl: '@', // Whether to show a pan control on the map.
                     zoomControl: '@', // Whether to show a zoom control on the map.
-                    scaleControl: '@' // Whether to show scale control on the map.
+                    scaleControl: '@', // Whether to show scale control on the map.
+                    gfradius: '=' // Whether to show scale control on the map.
                 },
                 link: function (scope, element, attrs) {
                     var toResize, toCenter;
